@@ -2,7 +2,7 @@
 
 A simple poll (Favorite JS Framework) app (component) from Brad Trversy's 'Modern JS From The Beginning' course.
 
-Try out the app :) - https:
+Try out the app :) - https://spontaneous-axolotl-6528b9.netlify.app/
 
 Development steps:
 
